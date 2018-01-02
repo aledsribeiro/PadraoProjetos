@@ -1,0 +1,6 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\bin\Debug\PadraoProjeto.ChainOfResponsability.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\bin\Debug\PadraoProjeto.ChainOfResponsability.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\bin\Debug\PadraoProjeto.ChainOfResponsability.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\obj\Debug\PadraoProjeto.ChainOfResponsability.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\obj\Debug\PadraoProjeto.ChainOfResponsability.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.ChainOfResponsability\obj\Debug\PadraoProjeto.ChainOfResponsability.csprojResolveAssemblyReference.cache

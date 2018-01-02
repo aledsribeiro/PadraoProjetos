@@ -1,0 +1,6 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\bin\Debug\PadraoProjeto.TemplateMethod.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\bin\Debug\PadraoProjeto.TemplateMethod.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\bin\Debug\PadraoProjeto.TemplateMethod.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\obj\Debug\PadraoProjeto.TemplateMethod.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\obj\Debug\PadraoProjeto.TemplateMethod.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.TemplateMethod\obj\Debug\PadraoProjeto.TemplateMethod.pdb

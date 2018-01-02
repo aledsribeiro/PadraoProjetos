@@ -1,0 +1,7 @@
+﻿Padrão Template Method
+
+A motivação dele : temos classes cujo algoritimo é semelhante
+
+Representamos esse algoritimo de maneira abstrata e a implementação concreta preenche as lacunas
+
+Diminuimos a repetiçao de código.

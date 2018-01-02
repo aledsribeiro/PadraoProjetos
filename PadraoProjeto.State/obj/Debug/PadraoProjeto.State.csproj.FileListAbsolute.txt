@@ -1,0 +1,6 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\obj\Debug\PadraoProjeto.State.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\bin\Debug\PadraoProjeto.State.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\bin\Debug\PadraoProjeto.State.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\bin\Debug\PadraoProjeto.State.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\obj\Debug\PadraoProjeto.State.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.State\obj\Debug\PadraoProjeto.State.pdb

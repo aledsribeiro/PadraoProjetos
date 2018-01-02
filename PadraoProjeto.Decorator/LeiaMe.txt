@@ -1,0 +1,11 @@
+﻿Compor impostos
+Por exemplo: retornar o calculo do ICMS + ISS
+
+Motivação : Temos um objeto que precisa fazer muitos calculos
+
+Classes pequenas que fazem só uma coisa
+
+Cria comportamentos complicados apartir de pequenos comportamentos simples
+
+
+

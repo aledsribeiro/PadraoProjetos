@@ -1,0 +1,3 @@
+﻿Padrão Chain Of Responsability
+
+Cria uma corrente de responsabilidades

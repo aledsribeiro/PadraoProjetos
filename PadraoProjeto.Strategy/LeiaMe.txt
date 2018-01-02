@@ -1,0 +1,7 @@
+﻿Padrão strategy
+
+Um padrão de projeto é mais que uma implementação. No final das contas ele é uma ideia.
+
+Quando utilizamos uma hierarquia, como fizemos com a interface Imposto e as implementações ICMS e ISS,
+ e recebemos o tipo mais genérico como parâmetro, para ganharmos o polimorfismo na regra que será executada, 
+ simplificando o código e sua evolução, estamos usando o Design Pattern chamado Strategy.

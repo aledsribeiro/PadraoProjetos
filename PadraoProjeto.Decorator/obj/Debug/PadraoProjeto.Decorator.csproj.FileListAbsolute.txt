@@ -1,0 +1,6 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\obj\Debug\PadraoProjeto.Decorator.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\bin\Debug\PadraoProjeto.Decorator.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\bin\Debug\PadraoProjeto.Decorator.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\bin\Debug\PadraoProjeto.Decorator.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\obj\Debug\PadraoProjeto.Decorator.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Decorator\obj\Debug\PadraoProjeto.Decorator.pdb

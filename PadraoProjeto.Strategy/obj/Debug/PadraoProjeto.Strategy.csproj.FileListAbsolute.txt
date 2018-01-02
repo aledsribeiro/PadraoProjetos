@@ -1,0 +1,6 @@
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\bin\Debug\PadraoProjeto.Strategy.exe.config
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\obj\Debug\PadraoProjeto.Strategy.csprojResolveAssemblyReference.cache
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\bin\Debug\PadraoProjeto.Strategy.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\bin\Debug\PadraoProjeto.Strategy.pdb
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\obj\Debug\PadraoProjeto.Strategy.exe
+c:\users\5a_pc1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Strategy\obj\Debug\PadraoProjeto.Strategy.pdb
