@@ -1,0 +1,9 @@
+﻿Motivação:
+
+O que fizemos: Nos temos muitas ações que devem ser executadas após alguma coisa acontecer, nesse caso depois que a nota é construida.
+
+Criamos uma interface que representa essa ação e executamos um loop para todas as ações, passando quantas ações quiser.
+
+A classe notafiscal builder continua funcionando, permitindo criar dezenas de ações
+
+Esse padrão ajuda a desacoplar o codigo. O notafiscalbuilder não conhece o enviasms só conhece a ação após gerar a nota permitindo sua evolução.

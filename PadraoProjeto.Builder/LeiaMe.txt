@@ -1,0 +1,11 @@
+﻿Motivação:
+
+Temos um objeto dificil de ser criado. A nota fiscal recebe muitos parametros.Tem logica de criação
+
+Foi feito o encapsulamento da  complexidade na classe que só cria nota fiscal
+
+Para esse problema foi aplicado a solução com o padrão builder
+
+A classe poderia se chamar NotaFiscalBuilder
+
+Nos fornece uma api mais elegante

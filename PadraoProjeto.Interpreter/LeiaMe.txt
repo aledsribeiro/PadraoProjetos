@@ -1,0 +1,6 @@
+﻿Motivação:
+
+Toda vez que tivermos uma arvore de expressões que precisam ser avaliadas
+
+Pode ser usada para aplicar formatação em documentos e dsl's
+

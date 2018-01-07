@@ -1,0 +1,6 @@
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\bin\Debug\PadraoProjeto.Interpreter.exe.config
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\obj\Debug\PadraoProjeto.Interpreter.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\bin\Debug\PadraoProjeto.Interpreter.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\bin\Debug\PadraoProjeto.Interpreter.pdb
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\obj\Debug\PadraoProjeto.Interpreter.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Interpreter\obj\Debug\PadraoProjeto.Interpreter.pdb

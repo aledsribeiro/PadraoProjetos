@@ -1,0 +1,6 @@
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\bin\Debug\PadraoProjeto.Observer.exe.config
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\bin\Debug\PadraoProjeto.Observer.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\bin\Debug\PadraoProjeto.Observer.pdb
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\obj\Debug\PadraoProjeto.Observer.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\obj\Debug\PadraoProjeto.Observer.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Observer\obj\Debug\PadraoProjeto.Observer.pdb

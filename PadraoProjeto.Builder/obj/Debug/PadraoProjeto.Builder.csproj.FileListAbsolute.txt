@@ -1,0 +1,6 @@
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\bin\Debug\PadraoProjeto.Builder.exe.config
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\bin\Debug\PadraoProjeto.Builder.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\bin\Debug\PadraoProjeto.Builder.pdb
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\obj\Debug\PadraoProjeto.Builder.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\obj\Debug\PadraoProjeto.Builder.pdb
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Builder\obj\Debug\PadraoProjeto.Builder.csprojResolveAssemblyReference.cache

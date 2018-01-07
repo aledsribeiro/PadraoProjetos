@@ -1,0 +1,6 @@
+﻿Motivação:
+
+Criar objetos apenas uma vez,economizando a memoria da aplicação
+
+Criar o objeto apenas uma vez e reutiliza-los
+

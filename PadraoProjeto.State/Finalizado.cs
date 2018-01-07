@@ -6,7 +6,28 @@ using System.Threading.Tasks;
 
 namespace PadraoProjeto.State
 {
-    class Finalizado
+    public class Finalizado: IEstadoOrcamento
     {
+
+        public void AplicarDescontoExtra(Orcamento Orcamento)
+        {
+            throw new Exception("Orçamentos finalizados não recebem desconto extra");
+        }
+
+
+        public void Aprova(Orcamento orcamento)
+        {
+            throw new Exception("Orçamento ja esta finalizado");
+        }
+
+        public void Reprova(Orcamento orcamento)
+        {
+            throw new Exception("Orçamento ja esta finalizado");
+        }
+
+        public void Finaliza(Orcamento orcamento)
+        {
+            throw new Exception("Orçamento ja esta finalizado");
+        }
     }
 }

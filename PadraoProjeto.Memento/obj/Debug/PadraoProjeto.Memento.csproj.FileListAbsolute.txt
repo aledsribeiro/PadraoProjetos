@@ -1,0 +1,6 @@
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\bin\Debug\PadraoProjeto.Memento.exe.config
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\bin\Debug\PadraoProjeto.Memento.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\bin\Debug\PadraoProjeto.Memento.pdb
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\obj\Debug\PadraoProjeto.Memento.csprojResolveAssemblyReference.cache
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\obj\Debug\PadraoProjeto.Memento.exe
+C:\Users\5A_PC1\documents\visual studio 2012\Projects\PadraoProjeto\PadraoProjeto.Memento\obj\Debug\PadraoProjeto.Memento.pdb

@@ -1,0 +1,6 @@
+﻿Motivação:
+
+Se parece muito com o builder, so que la nos criamos o objeto variando os parametros de entrada
+mas nesse caso toda vez que formos criar a conexão com o banco ela sera do mesmo jeito.
+
+Temos um padrão para criar objetos.

@@ -1,0 +1,4 @@
+﻿Motivaçao:
+
+Memento - Sempre que for necessário restaurar o estado anterior de um objeto da aplicação
+O padrão de projeto é um guia, passando a ideia de como pode ser feito uma implementação
